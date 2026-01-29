@@ -1,0 +1,15 @@
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\bin\Debug\net8.0\MeusicRuchama.Service.deps.json
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\bin\Debug\net8.0\MeusicRuchama.Service.dll
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\bin\Debug\net8.0\MeusicRuchama.Service.pdb
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\bin\Debug\net8.0\MeusicRuchama.Core.dll
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\bin\Debug\net8.0\MeusicRuchama.Core.pdb
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\MeusicRuchama.Service.csproj.AssemblyReference.cache
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\MeusicRuchama.Service.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\MeusicRuchama.Service.AssemblyInfoInputs.cache
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\MeusicRuchama.Service.AssemblyInfo.cs
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\MeusicRuchama.Service.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\MeusicRu.FB4D1C80.Up2Date
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\MeusicRuchama.Service.dll
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\refint\MeusicRuchama.Service.dll
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\MeusicRuchama.Service.pdb
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Service\obj\Debug\net8.0\ref\MeusicRuchama.Service.dll

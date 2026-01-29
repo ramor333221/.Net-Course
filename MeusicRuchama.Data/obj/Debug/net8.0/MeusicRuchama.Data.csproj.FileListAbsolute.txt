@@ -1,0 +1,17 @@
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\MeusicRuchama.Data.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\MeusicRuchama.Data.AssemblyInfoInputs.cache
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\MeusicRuchama.Data.AssemblyInfo.cs
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\MeusicRuchama.Data.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\bin\Debug\net8.0\MeusicRuchama.Data.deps.json
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\bin\Debug\net8.0\MeusicRuchama.Data.dll
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\bin\Debug\net8.0\MeusicRuchama.Data.pdb
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\bin\Debug\net8.0\MeusicRuchama.Core.dll
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\bin\Debug\net8.0\MeusicRuchama.Core.pdb
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\MeusicRuchama.Data.csproj.AssemblyReference.cache
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\MeusicRu.6811F88F.Up2Date
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\MeusicRuchama.Data.dll
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\refint\MeusicRuchama.Data.dll
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\MeusicRuchama.Data.pdb
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\ref\MeusicRuchama.Data.dll
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\bin\Debug\net8.0\MeusicRuchama.Data.runtimeconfig.json
+T:\Group B\NetCore\רוחמה אמור\project\MeusicRuchama\MeusicRuchama.Data\obj\Debug\net8.0\MeusicRuchama.Data.genruntimeconfig.cache

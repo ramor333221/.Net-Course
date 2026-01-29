@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|solutionrelative:meusicruchama\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|solutionrelative:meusicruchama\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|solutionrelative:meusicruchama\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C983149-97C9-4B6C-9C26-2461781EB301}|MeusicRuchama.Data\\MeusicRuchama.Data.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.data\\repositories\\lessonrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C983149-97C9-4B6C-9C26-2461781EB301}|MeusicRuchama.Data\\MeusicRuchama.Data.csproj|solutionrelative:meusicruchama.data\\repositories\\lessonrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C983149-97C9-4B6C-9C26-2461781EB301}|MeusicRuchama.Data\\MeusicRuchama.Data.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.data\\repositories\\teacherrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C983149-97C9-4B6C-9C26-2461781EB301}|MeusicRuchama.Data\\MeusicRuchama.Data.csproj|solutionrelative:meusicruchama.data\\repositories\\teacherrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\serivecs\\iteachersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\serivecs\\iteachersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA07EC1-048C-4767-B0A6-F9F252FF1FA0}|MeusicRuchama.Service\\MeusicRuchama.Service.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.service\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA07EC1-048C-4767-B0A6-F9F252FF1FA0}|MeusicRuchama.Service\\MeusicRuchama.Service.csproj|solutionrelative:meusicruchama.service\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA07EC1-048C-4767-B0A6-F9F252FF1FA0}|MeusicRuchama.Service\\MeusicRuchama.Service.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.service\\teachersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA07EC1-048C-4767-B0A6-F9F252FF1FA0}|MeusicRuchama.Service\\MeusicRuchama.Service.csproj|solutionrelative:meusicruchama.service\\teachersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA07EC1-048C-4767-B0A6-F9F252FF1FA0}|MeusicRuchama.Service\\MeusicRuchama.Service.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA07EC1-048C-4767-B0A6-F9F252FF1FA0}|MeusicRuchama.Service\\MeusicRuchama.Service.csproj|solutionrelative:meusicruchama.service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\repositories\\ilessonsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\repositories\\ilessonsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\repositories\\itechersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\repositories\\itechersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\serivecs\\ilessonsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\serivecs\\ilessonsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C983149-97C9-4B6C-9C26-2461781EB301}|MeusicRuchama.Data\\MeusicRuchama.Data.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C983149-97C9-4B6C-9C26-2461781EB301}|MeusicRuchama.Data\\MeusicRuchama.Data.csproj|solutionrelative:meusicruchama.data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama\\meusicruchama.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|solutionrelative:meusicruchama\\meusicruchama.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\serivecs\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\serivecs\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\repositories\\istudentrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\repositories\\istudentrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C983149-97C9-4B6C-9C26-2461781EB301}|MeusicRuchama.Data\\MeusicRuchama.Data.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C983149-97C9-4B6C-9C26-2461781EB301}|MeusicRuchama.Data\\MeusicRuchama.Data.csproj|solutionrelative:meusicruchama.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\meusicruchama.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\meusicruchama.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|solutionrelative:meusicruchama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama\\mappingprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|solutionrelative:meusicruchama\\mappingprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\entities\\lessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\entities\\lessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama\\models\\teacher\\teacherpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|solutionrelative:meusicruchama\\models\\teacher\\teacherpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\entities\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\entities\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama.core\\entities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E1B7C-855E-4BA4-9A82-286A7FFAD490}|MeusicRuchama.Core\\MeusicRuchama.Core.csproj|solutionrelative:meusicruchama.core\\entities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama\\models\\lesson\\lessonpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|solutionrelative:meusicruchama\\models\\lesson\\lessonpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\meusicruchama\\models\\student\\studentpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412D909C-B2A8-4D28-ACAA-35159092BDD2}|MeusicRuchama\\MeusicRuchama.csproj|solutionrelative:meusicruchama\\models\\student\\studentpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E566CD-C698-4909-AC1A-1F910214A1A6}|MusicRuchamaTest\\MusicRuchamaTest.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\meusicruchama\\musicruchamatest\\lessonscontrollertset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E566CD-C698-4909-AC1A-1F910214A1A6}|MusicRuchamaTest\\MusicRuchamaTest.csproj|solutionrelative:musicruchamatest\\lessonscontrollertset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama\\Controllers\\TeachersController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "MeusicRuchama\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:14:48.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LessonRepositories.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Data\\Repositories\\LessonRepositories.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Data\\Repositories\\LessonRepositories.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Data\\Repositories\\LessonRepositories.cs",
+              "RelativeToolTip": "MeusicRuchama.Data\\Repositories\\LessonRepositories.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:30:24.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherRepositories.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Data\\Repositories\\TeacherRepositories.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Data\\Repositories\\TeacherRepositories.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Data\\Repositories\\TeacherRepositories.cs",
+              "RelativeToolTip": "MeusicRuchama.Data\\Repositories\\TeacherRepositories.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:44:13.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LessonsController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Controllers\\LessonsController.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama\\Controllers\\LessonsController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Controllers\\LessonsController.cs",
+              "RelativeToolTip": "MeusicRuchama\\Controllers\\LessonsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:14:20.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITeachersServies.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Serivecs\\ITeachersServies.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\Serivecs\\ITeachersServies.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Serivecs\\ITeachersServies.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\Serivecs\\ITeachersServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:18:08.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Service\\LessonService.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Service\\LessonService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Service\\LessonService.cs",
+              "RelativeToolTip": "MeusicRuchama.Service\\LessonService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:27:08.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeachersService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Service\\TeachersService.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Service\\TeachersService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Service\\TeachersService.cs",
+              "RelativeToolTip": "MeusicRuchama.Service\\TeachersService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:52:25.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama\\Controllers\\StudentsController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "MeusicRuchama\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:13:10.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Service\\StudentService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Service\\StudentService.cs",
+              "RelativeToolTip": "MeusicRuchama.Service\\StudentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:19:07.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILessonsRepositories.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Repositories\\ILessonsRepositories.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\Repositories\\ILessonsRepositories.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Repositories\\ILessonsRepositories.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\Repositories\\ILessonsRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:30:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITechersRepositories.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Repositories\\ITechersRepositories.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\Repositories\\ITechersRepositories.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Repositories\\ITechersRepositories.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\Repositories\\ITechersRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:46:44.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILessonsServices.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Serivecs\\ILessonsServices.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\Serivecs\\ILessonsServices.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Serivecs\\ILessonsServices.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\Serivecs\\ILessonsServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:21:01.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Data\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Data\\Repositories\\StudentRepository.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Data\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "MeusicRuchama.Data\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:37:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MeusicRuchama.csproj",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\MeusicRuchama.csproj",
+              "RelativeDocumentMoniker": "MeusicRuchama\\MeusicRuchama.csproj",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\MeusicRuchama.csproj",
+              "RelativeToolTip": "MeusicRuchama\\MeusicRuchama.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T12:30:08.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentServices.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Serivecs\\IStudentServices.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\Serivecs\\IStudentServices.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Serivecs\\IStudentServices.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\Serivecs\\IStudentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:18:51.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudentRepositories.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Repositories\\IStudentRepositories.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\Repositories\\IStudentRepositories.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Repositories\\IStudentRepositories.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\Repositories\\IStudentRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:43:20.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\DTOs\\StudentDTO.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:59:01.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Data\\DataContext.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Data\\DataContext.cs",
+              "RelativeToolTip": "MeusicRuchama.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:52:19.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfileModel.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\MappingProfileModel.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama\\MappingProfileModel.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\MappingProfileModel.cs",
+              "RelativeToolTip": "MeusicRuchama\\MappingProfileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:29:45.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Program.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama\\Program.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Program.cs",
+              "RelativeToolTip": "MeusicRuchama\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:10:47.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LessonDTO.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\DTOs\\LessonDTO.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\DTOs\\LessonDTO.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\DTOs\\LessonDTO.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\DTOs\\LessonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:59:15.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Lessons.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Entities\\Lessons.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\Entities\\Lessons.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Entities\\Lessons.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\Entities\\Lessons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:01:38.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\MappingProfile.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\MappingProfile.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:11:55.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MeusicRuchama.Core.csproj",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\MeusicRuchama.Core.csproj",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\MeusicRuchama.Core.csproj",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\MeusicRuchama.Core.csproj",
+              "RelativeToolTip": "MeusicRuchama.Core\\MeusicRuchama.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T15:58:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeacherPostModel.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Models\\Teacher\\TeacherPostModel.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama\\Models\\Teacher\\TeacherPostModel.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Models\\Teacher\\TeacherPostModel.cs",
+              "RelativeToolTip": "MeusicRuchama\\Models\\Teacher\\TeacherPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:11:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LessonPostModel.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Models\\Lesson\\LessonPostModel.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama\\Models\\Lesson\\LessonPostModel.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Models\\Lesson\\LessonPostModel.cs",
+              "RelativeToolTip": "MeusicRuchama\\Models\\Lesson\\LessonPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:10:50.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentPostModel.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Models\\Student\\StudentPostModel.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama\\Models\\Student\\StudentPostModel.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama\\Models\\Student\\StudentPostModel.cs",
+              "RelativeToolTip": "MeusicRuchama\\Models\\Student\\StudentPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:08:20.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LessonsControllerTset.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MusicRuchamaTest\\LessonsControllerTset.cs",
+              "RelativeDocumentMoniker": "MusicRuchamaTest\\LessonsControllerTset.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MusicRuchamaTest\\LessonsControllerTset.cs",
+              "RelativeToolTip": "MusicRuchamaTest\\LessonsControllerTset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:04:32.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Teachers.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Entities\\Teachers.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\Entities\\Teachers.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Entities\\Teachers.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\Entities\\Teachers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:02:10.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Students.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Entities\\Students.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\Entities\\Students.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\Entities\\Students.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\Entities\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:01:54.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\DTOs\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "MeusicRuchama.Core\\DTOs\\TeacherDTO.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05D7\u05DE\u05D4 \u05D0\u05DE\u05D5\u05E8\\project\\MeusicRuchama\\MeusicRuchama.Core\\DTOs\\TeacherDTO.cs",
+              "RelativeToolTip": "MeusicRuchama.Core\\DTOs\\TeacherDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:59:27.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
