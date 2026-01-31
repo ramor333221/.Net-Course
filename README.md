@@ -30,7 +30,6 @@ The project is structured into multiple projects, each with a single responsibil
 - Domain entities and models
 - Interfaces and abstractions
 - Shared types used across the solution
-- Contains **no implementation logic**
 - Independent of external frameworks
 
 ---
@@ -41,7 +40,6 @@ The project is structured into multiple projects, each with a single responsibil
 - Entity configurations
 - CRUD operations and repositories
 - Responsible only for **data persistence**
-- No business logic
 
 ---
 
