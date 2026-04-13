@@ -1,0 +1,6 @@
+@MeusicRuchama_HostAddress = http://localhost:5245
+
+GET {{MeusicRuchama_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
