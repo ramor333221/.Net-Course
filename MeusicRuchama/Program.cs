@@ -12,11 +12,10 @@ using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen(options =>
 {
     options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
@@ -44,11 +43,6 @@ builder.Services.AddSwaggerGen(options =>
     });
 });
 
-
-//builder.Services.AddScoped<IDataContext, DataContext>(); //òáåø ëì á÷ùä ðåöø îåôò çãù
-//builder.Services.AddSingleton<DataContext>(); //àåúå îåôò òáåø ëì ääøöä
-//builder.Services.AddTransient<IDataContext, DataContext>(); //éåöø îåôò çãù òáåø ëì ôòí ùðãøù (âí àí áàåúä äá÷ùä éäéä øùåí ëîä ôòîéí éöéøú îåôò çãù)
-
 builder.Services.AddScoped<IStudentServices, StudentService>();
 builder.Services.AddScoped<IStudentRepositories, StudentRepository>();
 
@@ -62,84 +56,56 @@ builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 builder.Services.AddAutoMapper(typeof(MappingProfile), typeof(MappingProfileModel));
-
 builder.Services.AddDbContext<DataContext>();
-
-
-
-// Configure the HTTP request pipeline.
-
 
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
     options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 })
-    .AddJwtBearer(options =>
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
     {
-        options.TokenValidationParameters = new TokenValidationParameters
-        {
-            ValidateIssuer = true,
-            ValidateAudience = true,
-            ValidateLifetime = true,
-            ValidateIssuerSigningKey = true,
-            ValidIssuer = builder.Configuration["JWT:Issuer"],
-            ValidAudience = builder.Configuration["JWT:Audience"],
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Key"]))
-        };
-    });
-
-//builder.Services.AddCors(options =>
-//{
-//    options.AddPolicy("AllowFrontend", policy =>
-//    {
-//        policy.WithOrigins("http://localhost:8080")
-//              .AllowAnyHeader()
-//              .AllowAnyMethod();
-//              //.AllowCredentials();
-//    });
-//});
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["JWT:Issuer"],
+        ValidAudience = builder.Configuration["JWT:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Key"]))
+    };
+});
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AnyOrigin", builder =>
+    options.AddPolicy("AnyOrigin", policy =>
     {
-        builder.AllowAnyOrigin()
-               .AllowAnyHeader()
-               .AllowAnyMethod();
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
     });
 });
 
-//var app = builder.Build();
 var app = builder.Build();
 
-// Updated Manual Header Injection
-app.Use(async (context, next) =>
+
+
+if (app.Environment.IsDevelopment())
 {
-    // Clear any existing headers and set fresh ones
-    context.Response.Headers["Access-Control-Allow-Origin"] = "http://localhost:8080";
-    context.Response.Headers["Access-Control-Allow-Headers"] = "Content-Type, Authorization, Accept";
-    context.Response.Headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS, PUT, DELETE";
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
-    if (context.Request.Method == "OPTIONS")
-    {
-        context.Response.StatusCode = 200;
-        await context.Response.CompleteAsync(); // End the request here for OPTIONS
-        return;
-    }
-    await next();
-});
+app.UseHttpsRedirection();
 
-app.UseSwagger();
-app.UseSwaggerUI();
-
-//app.UseHttpsRedirection();
 app.UseRouting();
-//app.UseCors("AllowFrontend");
-//app.UseCors("AnyOrigin"); 
+
+app.UseCors("AnyOrigin");
 
 app.UseAuthentication();
 app.UseAuthorization();
+
 app.MapControllers();
 
 app.Run();

@@ -5,10 +5,12 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Authorization; 
 
 namespace MeusicRuchama.Controllers
 {
-    [EnableCors("AllowFrontend")]
+    [EnableCors("AnyOrigin")]
     [Route("api/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase
@@ -21,12 +23,14 @@ namespace MeusicRuchama.Controllers
             _configuration = configuration;
             _userService = userService;
         }
+
         [AllowAnonymous]
         [HttpPost("login")]
-        [HttpOptions("login")]
         public async Task<IActionResult> Login([FromBody] LoginModel loginModel)
         {
-            Response.Headers.Add("Access-Control-Allow-Origin", "http://localhost:8080");
+            if (loginModel == null || string.IsNullOrEmpty(loginModel.UserName))
+                return BadRequest("פרטי התחברות חסרים");
+
             var user = await _userService.GetByUserNameAsync(loginModel.UserName, loginModel.Password);
 
             if (user == null)
@@ -35,17 +39,16 @@ namespace MeusicRuchama.Controllers
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, user.UserName),
+                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
                 new Claim(ClaimTypes.Role, user.Role.ToString())
             };
 
-            var secretKey = new SymmetricSecurityKey(
-                Encoding.UTF8.GetBytes(_configuration["JWT:Key"])
-            );
+            var key = _configuration["JWT:Key"];
+            if (string.IsNullOrEmpty(key))
+                return StatusCode(500, "JWT Key is missing in configuration");
 
-            var signinCredentials = new SigningCredentials(
-                secretKey,
-                SecurityAlgorithms.HmacSha256
-            );
+            var secretKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key));
+            var signinCredentials = new SigningCredentials(secretKey, SecurityAlgorithms.HmacSha256);
 
             var tokenOptions = new JwtSecurityToken(
                 issuer: _configuration["JWT:Issuer"],

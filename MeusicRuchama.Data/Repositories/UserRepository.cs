@@ -18,7 +18,7 @@ namespace MeusicRuchama.Data.Repositories
         }
         public async Task<Users> GetByUserNameAsync(string userName, string Password)
         {
-            return await _dataContext.users.FirstAsync(u => u.UserName == userName && u.Password == Password);
+            return await _dataContext.users.FirstOrDefaultAsync(u => u.UserName == userName && u.Password == Password);
         }
 
         public async Task<Users> AddUserAsync(Users user)
